@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="LambdaRankNN",
-    version="0.1.0",
+    version="0.1.1",
     author="Yinxiao Li",
     author_email="liyinxiao1227@gmail.com",
     description="LambdaRank Neural Netwrok model using Keras.",
